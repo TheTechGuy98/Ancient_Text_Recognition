@@ -1,0 +1,7 @@
+Key -
+
+1. ṅ - N dot above
+2. ṇ - N dot below
+3. ñ - N tilde
+4. n̄ - N overline
+5. ṉ - N underline
