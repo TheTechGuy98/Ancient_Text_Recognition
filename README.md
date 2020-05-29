@@ -3,10 +3,10 @@
 **Implementation** -
 > Source code for the process
 > - 1 Image_Preprocessing.ipynb
-  - 2 Image_Segmentation.ipynb
-  - 3 Multipart_Concatenation Folder
-  - 4 Image_Clustering.ipynb
-  - 5 OCR_Model_Creation Folder
+> - 2 Image_Segmentation.ipynb
+> - 3 Multipart_Concatenation Folder
+> - 4 Image_Clustering.ipynb
+> - 5 OCR_Model_Creation Folder
 
 
 **Input Images** -
